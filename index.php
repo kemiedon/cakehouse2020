@@ -18,7 +18,7 @@ $product_categories = $query->fetchAll(PDO::FETCH_ASSOC);
     <meta name="keywords" content="">
 
     <title>
-        Obaju : e-commerce template
+        Cake House 手作幸福甜點
     </title>
 
     <meta name="keywords" content="">
